@@ -1,4 +1,4 @@
-# Project Title
+# Project Title : API Testing of Voting App
 
 ## Table of Contents
 
